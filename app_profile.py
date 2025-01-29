@@ -49,7 +49,7 @@ st.header("Additional info: ")
 options = st.multiselect(" What are your favourite colors", ["Green", "Red", "Blue", "Purple","Yellow"])
 st.write("You chose: ", options)
 
-st.image("app_image.PNG", "the sigma-centre MO of Cp")
+st.image("app_image.png", "the sigma-centre MO of Cp")
 
 
 # Add a contact section
